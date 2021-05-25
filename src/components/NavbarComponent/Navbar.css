@@ -1,0 +1,27 @@
+.navbaar-container{
+    justify-content: left !important;
+}
+.sidebar-menu{
+    font-size: medium;
+    border: none !important;
+}
+.dropdown-menu{
+    right:0 !important;
+}
+.UserButton{
+    left:auto !important;
+    width: 400px;
+}
+
+.notification-box{
+    width: 300px;
+    height: 400px;
+    /* background-color: red; */
+    position: absolute;
+    top: 70px;
+    left: 390px;
+    border-radius: 5px;
+    background-color: rgb(255, 255, 255);
+	box-shadow: 0px 0px 50px -20px #0d47a1;
+	text-align: left;
+}
