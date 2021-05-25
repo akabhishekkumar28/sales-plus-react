@@ -1,6 +1,12 @@
 # Getting Started with Create React App
 
+
+`Click to see` [Firebase Link](https://sales-plus-398ce.web.app)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+
+![kuch bhi name](filename.png)
 
 ## Available Scripts
 
